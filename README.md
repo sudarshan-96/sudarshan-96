@@ -1,16 +1,16 @@
-<!-- Profile README for Sudarshan Jonnadula -->
+<!-- Profile README for Sudarshan Jonnadula - Dark Theme -->
 
-<h1 align="center">Hi 👋, I'm Sudarshan Jonnadula</h1>
+<h1 align="center">👋 Hi, I'm Sudarshan Jonnadula</h1>
 <h3 align="center">Aspiring Cybersecurity Engineer | Data Analytics Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://github.com/sudarshan-96"><img src="https://img.shields.io/github/followers/sudarshan-96?label=Follow&style=social" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/sudarshan-jonnadula-3100671aa/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/sudarshan-jonnadula-3100671aa/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
 🎓 Final year B.Tech CSE student at GVR&S College of Engineering & Technology  
 🔐 Passionate about **Cybersecurity**, **Ethical Hacking**, and **Defensive Security**  
@@ -23,12 +23,12 @@
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -48,10 +48,14 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats (Dark Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudarshan-96&show_icons=true&theme=default" alt="Sudarshan's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sudarshan-96&show_icons=true&theme=tokyonight" alt="Sudarshan's GitHub Stats"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sudarshan-96&theme=tokyonight" alt="Sudarshan's Streak Stats"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshan-96&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
@@ -59,8 +63,8 @@
 ## 📬 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sudarshan-jonnadula-3100671aa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>  
-<a href="https://github.com/sudarshan-96"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>  
+<a href="https://www.linkedin.com/in/sudarshan-jonnadula-3100671aa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+<a href="https://github.com/sudarshan-96"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>  
 📫 **Email:** sudarshan929690@gmail.com
 </p>
 
