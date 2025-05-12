@@ -1,0 +1,15 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}] # Runs once a day
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: sudarshan-96
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
