@@ -12,11 +12,11 @@
 
 ## 🧑‍💻 About Me
 
-🎓 Final year B.Tech CSE student at GVR&S College of Engineering & Technology  
 🔐 Passionate about **Cybersecurity**, **Ethical Hacking**, and **Defensive Security**  
 📊 Skilled in **Data Analytics**, **Visualization**, and **Problem Solving**  
-⚙️ Currently building knowledge through projects, hackathons, and internships  
-🌱 Always learning | Always experimenting | Always improving
+⚙️ Building knowledge through projects, hackathons, and internships  
+🌱 Always learning | Always experimenting | Always improving  
+💼 Open to opportunities in **Cybersecurity** and **Data Analytics**
 
 ---
 
@@ -48,15 +48,19 @@
 
 ---
 
-## 📈 GitHub Stats (Dark Theme)
+## 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudarshan-96&show_icons=true&theme=tokyonight" alt="Sudarshan's GitHub Stats"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sudarshan-96&theme=tokyonight" alt="Sudarshan's Streak Stats"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshan-96&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+![snake gif](https://github.com/sudarshan-96/sudarshan-96/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📊 My GitHub Metrics
+
+<img src="https://github.com/sudarshan-96/sudarshan-96/blob/generated/metrics.svg" alt="GitHub Metrics"/>
+<br><br>
+<img src="https://github.com/sudarshan-96/sudarshan-96/blob/generated_metrics.svg" alt="GitHub Metrics"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sudarshan-96&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
